@@ -1,4 +1,6 @@
 Types of locators
+driver.manage.window.maximize();
+driver.manage.timeouts().implicitelyWait(Duration.ofSeconds(10));
 driver.findelement(By.id);
 driver.findelement(By.name);
 driver.findelement(By.css);
