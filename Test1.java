@@ -8,6 +8,7 @@ public class Test1 {
 		// TODO Auto-generated method stub
 		ChromeDriver driver=new ChromeDriver();
 		driver.get("https://www.flipkart.com/");
+		driver.quit();
 	}
 
 }
