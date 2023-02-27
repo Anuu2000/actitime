@@ -1,3 +1,4 @@
+Types of locators
 driver.findelement(By.id);
 driver.findelement(By.name);
 driver.findelement(By.class);
