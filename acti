@@ -5,4 +5,4 @@ driver.findelement(By.id);
 driver.findelement(By.name);
 driver.findelement(By.css);
 driver.findelement(By.Xpath);
-deiver.close();
+driver.close();
